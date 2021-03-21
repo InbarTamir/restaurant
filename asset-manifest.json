@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.34f0f26e.chunk.css",
+    "main.js": "/restaurant/static/js/main.b97c2948.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.b97c2948.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.79d846a9.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.79d846a9.js.map",
+    "static/js/2.59be9f0a.chunk.js": "/restaurant/static/js/2.59be9f0a.chunk.js",
+    "static/js/2.59be9f0a.chunk.js.map": "/restaurant/static/js/2.59be9f0a.chunk.js.map",
+    "static/js/3.7bc4138d.chunk.js": "/restaurant/static/js/3.7bc4138d.chunk.js",
+    "static/js/3.7bc4138d.chunk.js.map": "/restaurant/static/js/3.7bc4138d.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "static/css/main.34f0f26e.chunk.css.map": "/restaurant/static/css/main.34f0f26e.chunk.css.map",
+    "static/js/2.59be9f0a.chunk.js.LICENSE.txt": "/restaurant/static/js/2.59be9f0a.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/restaurant/static/media/Spartan-Regular.01633446.ttf",
+    "static/media/menu-item1.jpg": "/restaurant/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.jpg": "/restaurant/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.jpg": "/restaurant/static/media/menu-item3.22eddbf1.jpg",
+    "static/media/HomeFooter.scss": "/restaurant/static/media/ready-bg-desktop.7404dbad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79d846a9.js",
+    "static/js/2.59be9f0a.chunk.js",
+    "static/css/main.34f0f26e.chunk.css",
+    "static/js/main.b97c2948.chunk.js"
+  ]
+}
