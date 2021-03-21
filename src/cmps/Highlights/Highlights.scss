@@ -1,0 +1,30 @@
+.highlights {
+    height: 761px;
+    padding-top: 200px;
+    padding-bottom: 120px;
+
+    .title-seperator {
+        width: 71px;
+        height: 7px;
+        margin-bottom: 48px;
+    }
+
+    .highlight-desc {
+        font-family: spartan;
+        line-height: 1.875rem;
+        font-size: 1.125rem;
+        flex: 5;
+
+        &:first-child {
+            margin-top: -30px;
+        }
+
+        .desc-title {
+            font-size: 2.5rem;
+            line-height: 3.5rem;
+            font-family: spartanBold;
+            margin-bottom: 29px;
+        }
+
+    }
+}
